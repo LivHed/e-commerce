@@ -5,7 +5,7 @@ from .models import Product
 class ProductTests(TestCase):
     """
     Here I'll define the tests that I'll run against the
-    Product model
+    Product models
     """
 
     def test_str(self):
